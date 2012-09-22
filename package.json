@@ -4,7 +4,7 @@
 , "author": "Your Name <your@email.com"
 , "description": "Application Description"
 , "scripts": {
-    "start": "node server 1>logs/stdout.log 2>logs/stderr.log" 
+    "start": "node server"
   , "test": "node server" 
   }
 , "main": "config/require.js"
